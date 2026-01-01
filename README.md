@@ -11,15 +11,6 @@ Python-first builder focused on AI/ML, automation, and practical experiments.
 
 </div>
 
-<details>
-    <summary><strong>Quick nav</strong></summary>
-
-- [About](#about)
-- [Tech stack](#tech-stack)
-- [Stats](#stats)
-
-</details>
-
 ---
 
 ## About
@@ -74,7 +65,7 @@ diobyte = {
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Diobyte&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
 
-[![Diobyte's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diobyte&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Diobyte's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diobyte&theme=tokyo-night&hide_border=true)
 
 </div>
 
