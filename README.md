@@ -54,8 +54,10 @@ diobyte = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## Stats
+
 <details>
-    <summary><strong>Stats</strong> (open if you want the graphs)</summary>
+    <summary><strong>Open graphs</strong></summary>
 
 <div align="center">
 
