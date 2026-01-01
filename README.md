@@ -3,20 +3,20 @@
 # Diobyte
 
 <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&random=false&width=720&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning"
-    alt="Typing header: Full Stack Developer, Problem Solver, Tech Enthusiast, Always Learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&random=false&width=720&lines=Python+%E2%80%A2+AI%2FML;Data+%26+Modeling;Automation+%26+Tooling;Always+Learning"
+    alt="Typing header: Python • AI/ML, Data & Modeling, Automation & Tooling, Always Learning"
 />
 
-Building projects, tools, and game-adjacent experiments — mostly here to ship and learn.
+Python-first builder focused on AI/ML, automation, and practical experiments.
 
 </div>
 
 <details>
     <summary><strong>Quick nav</strong></summary>
 
-- About
-- Tech stack
-- Stats (collapsible)
+- [About](#about)
+- [Tech stack](#tech-stack)
+- [Stats](#stats)
 
 </details>
 
@@ -24,54 +24,45 @@ Building projects, tools, and game-adjacent experiments — mostly here to ship 
 
 ## About
 
-```typescript
-const diobyte = {
-    focus: "Building cool stuff & learning new tech",
-    interests: ["Coding", "Gaming", "Reading", "Music"],
-    funFact: "I debug with console.log() and I'm not ashamed"
-};
+```python
+diobyte = {
+    "focus": "AI/ML with Python (practical, small, shippable)",
+    "interests": ["ml", "automation", "gaming", "systems"],
+    "note": "Anonymous account — keeping it low-key",
+}
 ```
 
 ## Tech stack
 
-### Languages
+### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools & platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### ML / data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Serving
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <details>
     <summary><strong>Stats</strong> (open if you want the graphs)</summary>
 
 <div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diobyte/Diobyte/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diobyte/Diobyte/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ![Diobyte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diobyte&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -91,7 +82,7 @@ const diobyte = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> "Stay hungry. Stay foolish." — Steve Jobs
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer&fontSize=0" width="100%" />
 
