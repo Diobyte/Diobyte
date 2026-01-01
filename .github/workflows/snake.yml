@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Generate snake animations
         id: snake-gif
@@ -20,13 +20,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
+
       - name: Upload artifact
         uses: actions/upload-artifact@v3
         with:
           name: snake-animations
           path: dist/
-          
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         if: ${{ github.event_name != 'pull_request' }}
