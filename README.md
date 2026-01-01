@@ -47,37 +47,62 @@ diobyte = {
 
 </details>
 
-## Stats
-
-<details>
-    <summary><strong>Open graphs</strong></summary>
+## 📊 Stats & Visualizations
 
 <div align="center">
 
+### 🔥 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diobyte/Diobyte/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diobyte/Diobyte/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diobyte/Diobyte/output/github-contribution-grid-snake.svg">
+</picture>
+
+### 📈 GitHub Analytics
+
 <table>
-    <tr>
-        <td>
-            <img alt="GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Diobyte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-        </td>
-        <td>
-            <img alt="Top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Diobyte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Diobyte&theme=tokyonight&hide_border=true" />
-        </td>
-        <td>
-            <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Diobyte&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=10" />
-        </td>
-    </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diobyte&theme=tokyonight" alt="Profile Summary" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Diobyte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Diobyte&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Diobyte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diobyte&theme=tokyonight&utcOffset=0" alt="Productive Time" />
+    </td>
+  </tr>
 </table>
 
-<img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Diobyte&theme=tokyo-night&hide_border=true" />
+### 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Diobyte&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+### 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diobyte&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+
+### 💻 Coding Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diobyte&theme=tokyonight" alt="Repos per Language" width="400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diobyte&theme=tokyonight" alt="Most Commit Language" width="400" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Diobyte&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-</details>
 
 ---
 
