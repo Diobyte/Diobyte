@@ -57,21 +57,20 @@ diobyte = {
 <table>
     <tr>
         <td>
-            <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Diobyte&show_icons=true&theme=tokyonight&hide_border=true" />
+            <img alt="GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Diobyte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
         </td>
         <td>
-            <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diobyte&layout=compact&theme=tokyonight&hide_border=true" />
+            <img alt="Top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Diobyte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
         </td>
     </tr>
     <tr>
-        <td>
-            <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Diobyte&theme=tokyonight&hide_border=true" />
-        </td>
-        <td>
-            <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Diobyte&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=10" />
+        <td colspan="2">
+            <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Diobyte&theme=tokyonight&hide_border=true" />
         </td>
     </tr>
 </table>
+
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Diobyte&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
 <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Diobyte&theme=tokyo-night&hide_border=true" />
 
