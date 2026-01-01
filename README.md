@@ -64,13 +64,14 @@ diobyte = {
         </td>
     </tr>
     <tr>
-        <td colspan="2">
+        <td>
             <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Diobyte&theme=tokyonight&hide_border=true" />
+        </td>
+        <td>
+            <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Diobyte&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=10" />
         </td>
     </tr>
 </table>
-
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Diobyte&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
 <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Diobyte&theme=tokyo-night&hide_border=true" />
 
