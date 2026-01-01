@@ -57,15 +57,30 @@ diobyte = {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diobyte/Diobyte/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![Diobyte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diobyte&show_icons=true&theme=tokyonight&hide_border=true)
+<img
+    alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=Diobyte&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diobyte&layout=compact&theme=tokyonight&hide_border=true)
+<img
+    alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diobyte&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"
+/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diobyte&theme=tokyonight&hide_border=true)
+<img
+    alt="GitHub streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Diobyte&theme=tokyonight&hide_border=true&cache_seconds=21600"
+/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Diobyte&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
+<img
+    alt="GitHub trophies"
+    src="https://github-profile-trophy.vercel.app/?username=Diobyte&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&cache_seconds=21600"
+/>
 
-![Diobyte's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diobyte&theme=tokyo-night&hide_border=true)
+<img
+    alt="Activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Diobyte&theme=tokyo-night&hide_border=true&cache_seconds=21600"
+/>
 
 </div>
 
