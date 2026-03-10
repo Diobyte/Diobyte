@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00FF41,100:7B2D8E&height=150&section=header&text=DIOBYTE&fontSize=60&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=%E3%80%8C+Za+Warudo+%E3%80%8D&descSize=14&descColor=7B2D8E&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00FF41,100:7B2D8E&height=180&section=header&text=DIOBYTE&fontSize=70&fontColor=00FF41&fontAlignY=32&animation=fadeIn&desc=%E3%80%8C+Za+Warudo+%E3%80%8D&descSize=16&descColor=7B2D8E&descAlignY=55&stroke=00FF41&strokeWidth=1" width="100%" />
 
 <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=650&lines=%5Broot%40diobyte+~%5D%24+python3+stand_arrow.py+--evolve;%5Broot%40diobyte+~%5D%24+nmap+-sV+artificial-intelligence;%5Broot%40diobyte+~%5D%24+echo+%22It+was+me%2C+Dio!%22+%7C+tee+%2Fdev%2Fstdout;%5Broot%40diobyte+~%5D%24+chmod+%2Bx+world_domination.py;%5Broot%40diobyte+~%5D%24+curl+-s+the-matrix+%7C+python3"
@@ -9,29 +9,34 @@
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│    ██████╗ ██╗ ██████╗ ██████╗ ██╗   ██╗████████╗███████╗       │
-│    ██╔══██╗██║██╔═══██╗██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔════╝       │
-│    ██║  ██║██║██║   ██║██████╔╝ ╚████╔╝    ██║   █████╗         │
-│    ██║  ██║██║██║   ██║██╔══██╗  ╚██╔╝     ██║   ██╔══╝         │
-│    ██████╔╝██║╚██████╔╝██████╔╝   ██║      ██║   ███████╗       │
-│    ╚═════╝ ╚═╝ ╚═════╝ ╚═════╝    ╚═╝      ╚═╝   ╚══════╝       │
-│                                                                  │
-│    STATUS    : ONLINE                                            │
-│    STAND     : 「Za Warudo」                                      │
-│    POWER     : ██████████████████░░░░ LVL 89                     │
-│    UPTIME    : since mass_extinction.event                       │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│     ██████╗ ██╗ ██████╗ ██████╗ ██╗   ██╗████████╗███████╗          │
+│     ██╔══██╗██║██╔═══██╗██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔════╝          │
+│     ██║  ██║██║██║   ██║██████╔╝ ╚████╔╝    ██║   █████╗            │
+│     ██║  ██║██║██║   ██║██╔══██╗  ╚██╔╝     ██║   ██╔══╝            │
+│     ██████╔╝██║╚██████╔╝██████╔╝   ██║      ██║   ███████╗          │
+│     ╚═════╝ ╚═╝ ╚═════╝ ╚═════╝    ╚═╝      ╚═╝   ╚══════╝          │
+│                                                                      │
+│  ┌─────────────────────────────────────────────────────────────┐     │
+│  │  STATUS    : ONLINE                 ゴゴゴゴゴゴ             │     │
+│  │  STAND     : 「Za Warudo」                                  │     │
+│  │  POWER     : ██████████████████░░░░ LVL 89                 │     │
+│  │  UPTIME    : since mass_extinction.event                   │     │
+│  │  CLASS     : Stand User / AI Tinkerer                      │     │
+│  └─────────────────────────────────────────────────────────────┘     │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
+
+<div align="center">
 
 ```python
 #!/usr/bin/env python3
@@ -69,11 +74,15 @@ if __name__ == "__main__":
     print(dio.attack())  # ZA WARUDO! TOKI WO TOMARE!
 ```
 
-<br/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
 ### `> cat /etc/arsenal.conf`
+
+<br/>
 
 ```
 [ai.stack]
@@ -99,11 +108,13 @@ if __name__ == "__main__":
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
 ### `> sudo cat /var/log/commits.log`
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diobyte/Diobyte/output/github-contribution-grid-snake-dark.svg">
@@ -111,7 +122,7 @@ if __name__ == "__main__":
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diobyte/Diobyte/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diobyte&hide_border=true&area=true&custom_title=%24+git+log+--graph+--all&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF4130&title_color=00FF41" alt="Contribution Graph" />
 
@@ -120,7 +131,7 @@ if __name__ == "__main__":
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Diobyte&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00FF41&text_color=9f9f9f&icon_color=00FF41&ring_color=00FF41" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diobyte&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00FF41&text_color=9f9f9f&icon_color=00FF41&ring_color=00FF41" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com/?user=Diobyte&hide_border=true&card_width=400&background=0D1117&ring=00FF41&fire=7B2D8E&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9f9f9f" alt="GitHub Streak" />
@@ -128,15 +139,15 @@ if __name__ == "__main__":
   </tr>
 </table>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Diobyte&layout=compact&hide_border=true&langs_count=8&card_width=500&bg_color=0D1117&title_color=00FF41&text_color=9f9f9f" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diobyte&layout=compact&hide_border=true&langs_count=8&card_width=500&bg_color=0D1117&title_color=00FF41&text_color=9f9f9f" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Diobyte&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diobyte&theme=github_dark&utcOffset=-6" alt="Productive Time" />
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
@@ -150,14 +161,6 @@ if __name__ == "__main__":
  │                                                             │
  └─────────────────────────────────────────────────────────────┘
 ```
-
-<br/>
-
-### `> grep -r "signal" /dev/socials`
-
-[![GitHub](https://img.shields.io/badge/@Diobyte-0D1117?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/Diobyte)
-
-<sub><kbd>「 anonymous by design 」</kbd></sub>
 
 <br/>
 
