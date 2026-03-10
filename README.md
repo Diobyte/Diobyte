@@ -36,8 +36,6 @@
 
 </div>
 
-<div align="center">
-
 ```python
 #!/usr/bin/env python3
 """diobyte.py — you expected a normal profile, but it was me, Dio."""
@@ -74,8 +72,6 @@ if __name__ == "__main__":
     print(dio.attack())  # ZA WARUDO! TOKI WO TOMARE!
 ```
 
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
@@ -83,6 +79,10 @@ if __name__ == "__main__":
 ### `> cat /etc/arsenal.conf`
 
 <br/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,linux,neovim,git,fastapi,postgres,bash&theme=dark" alt="Tech Stack Icons" />
+
+<br/><br/>
 
 ```
 [ai.stack]
@@ -143,13 +143,21 @@ if __name__ == "__main__":
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diobyte&theme=github_dark&utcOffset=-6" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diobyte&theme=github_dark" alt="Profile Details" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
+
+### `> fortune | cowsay`
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
+
+<br/><br/>
 
 ```
  ┌─────────────────────────────────────────────────────────────┐
