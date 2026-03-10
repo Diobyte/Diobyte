@@ -1,57 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&fontSize=0" width="100%" />
-
-# Diobyte
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00FF41,100:7B2D8E&height=150&section=header&text=DIOBYTE&fontSize=60&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=%E3%80%8C+Za+Warudo+%E3%80%8D&descSize=14&descColor=7B2D8E&descAlignY=55" width="100%" />
 
 <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&random=false&width=720&lines=Python+%E2%80%A2+AI%2FML;Data+%26+Modeling;Automation+%26+Tooling;Always+Learning"
-    alt="Typing header: Python • AI/ML, Data & Modeling, Automation & Tooling, Always Learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=650&lines=%5Broot%40diobyte+~%5D%24+nmap+-sV+artificial-intelligence;%5Broot%40diobyte+~%5D%24+python3+stand_arrow.py+--evolve;%5Broot%40diobyte+~%5D%24+echo+%22It+was+me%2C+Dio!%22+%7C+tee+README.md;%5Broot%40diobyte+~%5D%24+gcc+-O3+ambition.c+-o+reality;%5Broot%40diobyte+~%5D%24+cat+%2Fdev%2Furandom+%3E+next_project.py"
+    alt="Terminal typing animation"
 />
 
-Python-first builder focused on AI/ML, automation, and practical experiments.
-
 </div>
 
----
+<br/>
 
-## About
+<div align="center">
 
-```python
-diobyte = {
-    "focus": "AI/ML with Python (practical, small, shippable)",
-    "interests": ["ml", "automation", "gaming", "systems"],
-    "note": "Anonymous account — keeping it low-key",
-}
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│    ██████╗ ██╗ ██████╗ ██████╗ ██╗   ██╗████████╗███████╗       │
+│    ██╔══██╗██║██╔═══██╗██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔════╝       │
+│    ██║  ██║██║██║   ██║██████╔╝ ╚████╔╝    ██║   █████╗         │
+│    ██║  ██║██║██║   ██║██╔══██╗  ╚██╔╝     ██║   ██╔══╝         │
+│    ██████╔╝██║╚██████╔╝██████╔╝   ██║      ██║   ███████╗       │
+│    ╚═════╝ ╚═╝ ╚═════╝ ╚═════╝    ╚═╝      ╚═╝   ╚══════╝       │
+│                                                                  │
+│    STATUS: ONLINE          STAND: 「Za Warudo」                   │
+│    THREAT LEVEL: ████████████████████░░ 85%                      │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-<details>
-    <summary><strong>Tech stack</strong></summary>
+</div>
+
+```python
+#!/usr/bin/env python3
+"""diobyte.py — you expected a normal profile, but it was me, Dio."""
+
+class Diobyte:
+    
+    def __init__(self):
+        self.alias    = "Diobyte"
+        self.focus    = ["AI/ML", "automation", "systems", "tinkering"]
+        self.stand    = "「Za Warudo」"
+        self.os       = "Linux"
+        self.editor   = "nvim"
+        self.motto    = "if it exists, it can be reverse-engineered"
+    
+    def attack(self):
+        return "MUDA MUDA MUDA MUDA MUDA!"
+    
+    def currently(self):
+        return {
+            "hacking_on":  "AI/ML experiments",
+            "learning":    "whatever breaks next",
+            "building":    "tools that shouldn't exist yet",
+        }
+
+if __name__ == "__main__":
+    dio = Diobyte()
+    print(dio.attack())
+```
+
+<br/>
 
 <div align="center">
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+### `> cat /etc/arsenal.conf`
+
+<br/>
+
+`// AI & DATA` <br/>
+<img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00FF41" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=00FF41" />
+<img alt="scikit-learn" src="https://img.shields.io/badge/sklearn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00FF41" />
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00FF41" />
+<img alt="pandas" src="https://img.shields.io/badge/pandas-0D1117?style=flat-square&logo=pandas&logoColor=00FF41" />
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=00FF41" />
+
+<br/>
+
+`// INFRA & TOOLS` <br/>
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00FF41" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00FF41" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF41" />
+<img alt="Git" src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00FF41" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00FF41" />
+<img alt="Neovim" src="https://img.shields.io/badge/Neovim-0D1117?style=flat-square&logo=neovim&logoColor=00FF41" />
+<img alt="Bash" src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=00FF41" />
 
 </div>
 
-</details>
-
-## 📊 Stats & Visualizations
+<br/>
 
 <div align="center">
 
-### 🔥 Contribution Snake
+### `> sudo cat /var/log/commits.log`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diobyte/Diobyte/output/github-contribution-grid-snake-dark.svg">
@@ -59,57 +102,48 @@ diobyte = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diobyte/Diobyte/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 📈 GitHub Analytics
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diobyte&hide_border=true&area=true&custom_title=%24+git+log+--graph+--all&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF4130&title_color=00FF41" alt="Contribution Graph" />
+
+<br/>
 
 <table>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diobyte&theme=tokyonight" alt="Profile Summary" />
-    </td>
-  </tr>
-  <tr>
     <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Diobyte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Diobyte&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00FF41&text_color=9f9f9f&icon_color=00FF41&ring_color=00FF41" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=Diobyte&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Diobyte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diobyte&theme=tokyonight&utcOffset=0" alt="Productive Time" />
+      <img src="https://streak-stats.demolab.com/?user=Diobyte&hide_border=true&card_width=400&background=0D1117&ring=00FF41&fire=7B2D8E&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9f9f9f" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-### 🏆 Achievements
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Diobyte&layout=compact&hide_border=true&langs_count=8&card_width=500&bg_color=0D1117&title_color=00FF41&text_color=9f9f9f" alt="Top Languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Diobyte&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<br/><br/>
 
-### 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diobyte&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
-
-### 💻 Coding Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diobyte&theme=tokyonight" alt="Repos per Language" width="400" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diobyte&theme=tokyonight" alt="Most Commit Language" width="400" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Diobyte&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://github-profile-trophy.vercel.app/?username=Diobyte&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-> "Stay hungry. Stay foolish." — Steve Jobs
+```
+ ┌─────────────────────────────────────────────────────────────┐
+ │                                                             │
+ │  「 It's not about talent. It's about how many nights you   │
+ │     stayed up breaking things until they worked. 」          │
+ │                                                             │
+ │                                        — Diobyte            │
+ │                                                             │
+ └─────────────────────────────────────────────────────────────┘
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer&fontSize=0" width="100%" />
+![Profile Views](https://komarev.com/ghpvc/?username=Diobyte&color=00FF41&style=flat-square&label=visitors)
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00FF41,100:7B2D8E&height=100&section=footer&fontSize=0" width="100%" />
 
 </div>
