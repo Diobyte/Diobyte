@@ -155,20 +155,7 @@ if __name__ == "__main__":
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
-
-<br/><br/>
-
-```
- ┌─────────────────────────────────────────────────────────────┐
- │                                                             │
- │  「 It's not about talent. It's about how many nights you   │
- │     stayed up breaking things until they worked. 」          │
- │                                                             │
- │                                        — Diobyte            │
- │                                                             │
- └─────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=50&pause=30000&color=00FF41&center=true&vCenter=true&repeat=false&width=750&height=30&lines=%E3%80%8C+It's+not+about+talent.+It's+about+how+many+nights+you+stayed+up+breaking+things+until+they+worked.+%E3%80%8D+%E2%80%94+Diobyte" alt="Diobyte Quote" />
 
 <br/>
 
