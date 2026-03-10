@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00FF41,100:7B2D8E&height=150&section=header&text=DIOBYTE&fontSize=60&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=%E3%80%8C+Za+Warudo+%E3%80%8D&descSize=14&descColor=7B2D8E&descAlignY=55" width="100%" />
 
 <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=650&lines=%5Broot%40diobyte+~%5D%24+nmap+-sV+artificial-intelligence;%5Broot%40diobyte+~%5D%24+python3+stand_arrow.py+--evolve;%5Broot%40diobyte+~%5D%24+echo+%22It+was+me%2C+Dio!%22+%7C+tee+README.md;%5Broot%40diobyte+~%5D%24+gcc+-O3+ambition.c+-o+reality;%5Broot%40diobyte+~%5D%24+cat+%2Fdev%2Furandom+%3E+next_project.py"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=650&lines=%5Broot%40diobyte+~%5D%24+python3+stand_arrow.py+--evolve;%5Broot%40diobyte+~%5D%24+nmap+-sV+artificial-intelligence;%5Broot%40diobyte+~%5D%24+echo+%22It+was+me%2C+Dio!%22+%7C+tee+%2Fdev%2Fstdout;%5Broot%40diobyte+~%5D%24+chmod+%2Bx+world_domination.py;%5Broot%40diobyte+~%5D%24+curl+-s+the-matrix+%7C+python3"
     alt="Terminal typing animation"
 />
 
@@ -23,8 +23,10 @@
 │    ██████╔╝██║╚██████╔╝██████╔╝   ██║      ██║   ███████╗       │
 │    ╚═════╝ ╚═╝ ╚═════╝ ╚═════╝    ╚═╝      ╚═╝   ╚══════╝       │
 │                                                                  │
-│    STATUS: ONLINE          STAND: 「Za Warudo」                   │
-│    THREAT LEVEL: ████████████████████░░ 85%                      │
+│    STATUS    : ONLINE                                            │
+│    STAND     : 「Za Warudo」                                      │
+│    POWER     : ██████████████████░░░░ LVL 89                     │
+│    UPTIME    : since mass_extinction.event                       │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
@@ -41,12 +43,12 @@ class Diobyte:
         self.alias    = "Diobyte"
         self.focus    = ["AI/ML", "automation", "systems", "tinkering"]
         self.stand    = "「Za Warudo」"
-        self.os       = "Linux"
+        self.os       = "Arch btw"
         self.editor   = "nvim"
         self.motto    = "if it exists, it can be reverse-engineered"
     
     def attack(self):
-        return "MUDA MUDA MUDA MUDA MUDA!"
+        return "MUDA " * 7 + "MUDAAA!"
     
     def currently(self):
         return {
@@ -54,10 +56,17 @@ class Diobyte:
             "learning":    "whatever breaks next",
             "building":    "tools that shouldn't exist yet",
         }
+    
+    def philosophy(self):
+        return [
+            "ship it broken, fix it live",
+            "read the source, not the docs",
+            "automate yourself out of a job",
+        ]
 
 if __name__ == "__main__":
     dio = Diobyte()
-    print(dio.attack())
+    print(dio.attack())  # ZA WARUDO! TOKI WO TOMARE!
 ```
 
 <br/>
@@ -66,9 +75,9 @@ if __name__ == "__main__":
 
 ### `> cat /etc/arsenal.conf`
 
-<br/>
-
-`// AI & DATA` <br/>
+```
+[ai.stack]
+```
 <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41" />
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00FF41" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=00FF41" />
@@ -77,9 +86,9 @@ if __name__ == "__main__":
 <img alt="pandas" src="https://img.shields.io/badge/pandas-0D1117?style=flat-square&logo=pandas&logoColor=00FF41" />
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=00FF41" />
 
-<br/>
-
-`// INFRA & TOOLS` <br/>
+```
+[infra.tools]
+```
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00FF41" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00FF41" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF41" />
@@ -141,6 +150,16 @@ if __name__ == "__main__":
  │                                                             │
  └─────────────────────────────────────────────────────────────┘
 ```
+
+<br/>
+
+### `> grep -r "signal" /dev/socials`
+
+[![GitHub](https://img.shields.io/badge/@Diobyte-0D1117?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/Diobyte)
+
+<sub><kbd>「 anonymous by design 」</kbd></sub>
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Diobyte&color=00FF41&style=flat-square&label=visitors)
 
